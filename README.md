@@ -23,3 +23,7 @@ Keep both files on the same working directory:
 14. LQG-LTR Design
 15. H-infinity Robust Constrol Design
 16. CLOSED LOOP TIME RESPONSE 
+
+# Background
+
+The McDonnell Douglas(now Boeing) AV-8A Harrier is a single engine ground attack aircraft which is capable of vertical or short takeoff and landing. It was developed in the 1960s and formed the first generation of the Harrier series of aircrafts. It is powered by a single Pegasus turbofan engine mounted in the fuselage. The engine is fitted with four vectoring nozzles for directing the thrust generated(two for the bypass flow and two for the jet exhaust) and two air intakes. The aircraft also has several smaller reaction nozzles in the nose , tail and wingtips for the purpose of balancing during vertical flight. The aircraft is capable of forward flight like a fixed wing aircraft. It is also capable of doing VTOL and STOL manoeuvres where the lift and control surfaces are useless. The harrier also has two control elements namely the thrust vector and the reaction control system which is not found in conventional fixed-wing aircraft.
